@@ -7,4 +7,5 @@ https://www.freecodecamp.org/learn/machine-learning-with-python/#tensorflow
 
 * Introduction: Machine Learning Fundamentals
 * introduction to Tensor flow
-* Core Leraning Algorithms
+* Different lists and dimensions and shapes of data
+* Core Learning Algorithms
